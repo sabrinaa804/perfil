@@ -9,3 +9,6 @@ meu nome é Sabrina Sugari
 ###você pode entrar em contato comigo 📫
 
 sinhuk.sabrina@escola.pr.gov.br
+
+
+![image](https://github.com/user-attachments/assets/ad78aa5c-0225-4dfb-8ba5-bfd8856e16a2)
